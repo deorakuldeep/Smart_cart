@@ -1,0 +1,16 @@
+barcode,name,price,stock,category,discount
+1001,Milk,50.0,30,Dairy,5.0
+1002,Bread,30.0,20,Bakery,0.0
+1003,Eggs,90.0,25,Poultry,10.0
+1004,Butter,120.0,15,Dairy,10.0
+1005,Cheese,150.0,10,Dairy,15.0
+1006,Rice,80.0,50,Grains,5.0
+1007,Wheat Flour,60.0,40,Grains,5.0
+1008,Sugar,45.0,35,Grocery,0.0
+1009,Tea,200.0,25,Beverages,10.0
+1010,Coffee,250.0,20,Beverages,15.0
+1011,Tomato Ketchup,90.0,30,Condiments,5.0
+1012,Mustard Sauce,110.0,15,Condiments,10.0
+1013,Chocolate,80.0,25,Snacks,5.0
+1014,Potato Chips,50.0,40,Snacks,0.0
+1015,Soft Drink,40.0,30,Beverages,5.0
